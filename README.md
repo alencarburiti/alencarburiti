@@ -1,8 +1,8 @@
 <h1 align="center">Alencar Buriti Jr.</h1>
 
 <p align="center">
-  <b>Coordenador de Sistemas · TOTVS Protheus</b><br>
-  Gestão de times de desenvolvimento · Entrega técnica com resultado para o negócio<br>
+  <b>Coordenador de Sistemas · Tech Lead · 12 anos em TI</b><br>
+  ERP, chão de fábrica, integrações e BI · Gestão de times com resultado medido<br>
   Goiânia-GO · Agronegócio · Ambiente multiempresa
 </p>
 
@@ -15,13 +15,17 @@
 
 ### Sobre mim
 
-Coordeno a área de sistemas de um grupo de empresas do agronegócio, com o ERP TOTVS Protheus no
-centro da operação: comercial, peças e serviços, fiscal, financeiro e logística.
+São 12 anos em TI. Hoje, como **Coordenador de Sistemas e Tech Lead**, lidero equipes
+multidisciplinares responsáveis por ERP (TOTVS Protheus), chão de fábrica, integrações e BI, com
+foco em governança, arquitetura de sistemas e decisão baseada em dados.
 
-Meu trabalho junta duas coisas que normalmente ficam separadas: **formar e conduzir o time** e
-**resolver o problema difícil**. Defino prioridade com as áreas de negócio, especifico antes de
-desenvolver, reviso e entro no diagnóstico quando o problema exige. Também garanto que nada chega
-em produção sem teste, rastreabilidade e mudança aprovada.
+Meu trabalho é traduzir a necessidade do negócio em solução que **reduz custo e risco
+operacional**, e provar o resultado com número. Junto duas coisas que normalmente ficam separadas:
+**desenvolver pessoas** e **resolver o problema difícil**. Defino prioridade com as áreas,
+especifico antes de desenvolver, reviso e entro no diagnóstico quando o problema exige. Nada
+chega em produção sem teste, rastreabilidade e mudança aprovada.
+
+Os resultados abaixo foram medidos, não estimados.
 
 > Tecnologia que não muda um indicador do negócio é custo. Meu critério de entrega é o processo
 > da área funcionando melhor, não o fonte compilado.
